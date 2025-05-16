@@ -1,0 +1,1 @@
+# asahinapina_guide_v2_768
