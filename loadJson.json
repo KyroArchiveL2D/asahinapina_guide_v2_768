@@ -1,0 +1,91 @@
+{
+  "SettingModel": {
+    "version": 5,
+    "skel": "CH0257_home.skel",
+    "atlas": "CH0257_home.atlas",
+    "eyeTouch": "Touch_Me",
+    "idol": "Idle_01",
+    "x": 640,
+    "y": 800,
+    "scale": 0.45,
+    "angle": 0,
+    "bgmVolume": 0.2,
+    "talkVolume": 0.5,
+    "showTouch": false,
+    "panelDisplay": false,
+    "showTalkDialog": true,
+    "textX": 775,
+    "textY": 472,
+    "textSize": 16,
+    "autoTalk": 0,
+    "resolution": "2k",
+    "startAnimation": "Start_Idle_01",
+    "startScene": true,
+    "language": "Bahasa Indonesia"
+  },
+  "EventInfos": [
+    {
+      "BoneName": "B_suit",
+      "Width": 1500,
+      "Height": 800,
+      "Animations": [
+        "Talk_01_M",
+        "Talk_02_M",
+        "Talk_03_M",
+        "Talk_04_M",
+        "Talk_05_M"
+      ],
+      "AnimationIndex": 10,
+      "TextIndex": 0,
+      "ClickType": "pointerdown",
+      "EmptyAnimation": true
+    },
+    {
+      "BoneName": "F_Hair_01",
+      "Width": 800,
+      "Height": 500,
+      "Animations": [
+        "Pat_01_M"
+      ],
+      "AnimationIndex": 20,
+      "TextIndex": 0,
+      "ClickType": "pointerdown",
+      "EmptyAnimation": false
+    }
+  ],
+  "AnimationsTexts": {
+    "中文": {
+      "CH0257_MemorialLobby_1_1": "嗯，哈！……我好像有点紧张呢。",
+      "CH0257_MemorialLobby_1_2": "和客人在一起的时候，我太专注了，所以没注意到……",
+      "CH0257_MemorialLobby_1_3": "和老师在一起的时候，我感觉心里很平静。",
+      "CH0257_MemorialLobby_2_1": "为了能够轻盈地行动，拉伸是必不可少的！再来一次！",
+      "CH0257_MemorialLobby_2_2": "嗯，嗯，嗯！",
+      "CH0257_MemorialLobby_3": "呃？是不是应该放松肩膀……呢？",
+      "CH0257_MemorialLobby_4_1": "这、这个……作为向导，是不是要打起精神来比较好……呢……。",
+      "CH0257_MemorialLobby_4_2": "只有我们两个人的时候……那个……。",
+      "CH0257_MemorialLobby_5": "总是会忍不住放松下来……。"
+    },
+    "日本語": {
+      "CH0257_MemorialLobby_1_1": "うーん、ハッ！……なんだか、緊張していたみたいデス。",
+      "CH0257_MemorialLobby_1_2": "お客さんと一緒の間は夢中だったから、気づかなったのデスが……",
+      "CH0257_MemorialLobby_1_3": "こうして先生と一緒にいると、なんだか心が落ち着きマス。",
+      "CH0257_MemorialLobby_2_1": "軽やかに動くためにはストレッチは必須デス！もう一度！",
+      "CH0257_MemorialLobby_2_2": "ん、んん、うーん！",
+      "CH0257_MemorialLobby_3": "え？肩の力を抜いた方がイイ……デスか？",
+      "CH0257_MemorialLobby_4_1": "そ、その……これはガイドとして気合いを入れているといいマスか……。",
+      "CH0257_MemorialLobby_4_2": "二人っきりだと……その……。",
+      "CH0257_MemorialLobby_5": "つい、リラックスしてしまうから……。"
+    },
+    "Bahasa Indonesia": {
+      "CH0257_MemorialLobby_1_1": "Ugh, hah! Kayaknya tadi aku sempet deg-degan deh~",
+      "CH0257_MemorialLobby_1_2": "Pas lagi bareng tamu, aku terlalu fokus sampe gak nyadar……",
+      "CH0257_MemorialLobby_1_3": "Tapi kalau lagi bareng kamu, rasanya hati jadi tenang banget~",
+      "CH0257_MemorialLobby_2_1": "Biar bisa gerak lincah, stretching itu wajib~! Sekali lagi, yuk!",
+      "CH0257_MemorialLobby_2_2": "Nn, nnn~ uuu~!",
+      "CH0257_MemorialLobby_3": "Eh? Harusnya aku lemesin bahu ya……?",
+      "CH0257_MemorialLobby_4_1": "Y-yaa… soalnya aku harus semangat dong, kan aku pemandu kamu… gitu~",
+      "CH0257_MemorialLobby_4_2": "Kalau cuma berdua kayak gini… itu… umm…",
+      "CH0257_MemorialLobby_5": "Aku jadi gak bisa tahan buat santai terus gitu aja……"
+    }
+  }
+}
